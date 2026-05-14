@@ -234,8 +234,7 @@ The notebook is organized into the following sections:
 
 **Usman Ghani**  
 📚 CS251 — Introduction to Artificial Intelligence  
-🏫 Semester Project | Instructor: Mam Nazia Shehzadi  
-🎓 Registration No: 2022613
+🏫 Semester Project
 
 ---
 
